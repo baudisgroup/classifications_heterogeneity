@@ -5,5 +5,5 @@ This repo hosts the samples ID and metadata used in the study of [Copy number va
 ## Data 
 The open-access data from Progenetix was used in the study.
 
- - The complete lists of the samples used in each data repository are provided in ```/data```.
+ - The complete lists of the samples used is provided in ```samples_MetaData.csv```.
  - The open-access data used in the study is available at [Progenetix](https://progenetix.org/progenetix-cohorts/carrio-2021-heterogeneity/).
